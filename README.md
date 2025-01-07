@@ -1,5 +1,6 @@
 # Flashlight
 A firmware for a flashlight driver based on ATtiny13A.
+
 Public domain - see file UNLICENSE
 
 ## Hardware
